@@ -2,7 +2,7 @@
 
 **Data analyst / ML engineer**
 
-Python · PyTorch · scikit-learn · SQL · PostgreSQL
+Python · PyTorch · scikit-learn · SQL 
 
 ---
 
@@ -19,16 +19,16 @@ Thesis: neural controller for stabilizing FitzHugh–Nagumo dynamics via Neural 
 | Project | Stack | What it does |
 |---|---|---|
 | [Neural ODE controller](https://github.com/polinaparanina/neural-ode-fhn-controller) | Python, torchdiffeq, PyTorch | End-to-end trained controller embedded in ODE RHS; MSE 1e-2 → 1e-8 in 200 epochs |
-| [Churn prediction](link) | CatBoost, Optuna, pandas | Hyperparameter search, class imbalance handling, ROC-AUC evaluation |
-| [Image classification](link) | PyTorch, ResNet18, albumentations | Fine-tuning vs baseline CNN; noise removal via top-loss analysis |
-| [Airline dashboard](link) | PostgreSQL, Yandex DataLens | Interactive BI dashboard: seasonality, route efficiency |
+| [Image classification]([link](https://github.com/polinaparanina/image_classification)) | PyTorch, ResNet18, albumentations | Fine-tuning vs baseline CNN; noise removal via top-loss analysis |
+| [Medical image segmentation](https://github.com/polinaparanina/medical_image_segmentation) | PyTorch, SegNet | Skin lesion segmentation on PH2 dataset; custom BCE loss and segmentation metrics; prediction mask visualization |
+| [Churn prediction](https://github.com/polinaparanina/churn_prediction) | CatBoost, Optuna, pandas | Hyperparameter search, class imbalance handling, ROC-AUC evaluation |
 
 ---
 
 ### Stack
 
 `Python` `PyTorch` `torchdiffeq` `scikit-learn` `CatBoost` `Optuna`  
-`pandas` `numpy` `SQL` `PostgreSQL` `DataLens` `Power BI`
+`pandas` `numpy` `SQL` `DataLens` `Power BI`
 
 ---
 
