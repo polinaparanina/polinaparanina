@@ -1,16 +1,35 @@
-## Hi there 👋
+# Polina Paranina
 
-<!--
-**polinaparanina/polinaparanina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data analyst / ML engineer**
 
-Here are some ideas to get you started:
+Python · PyTorch · scikit-learn · SQL · PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+Finishing a BSc in Systems Analysis at SPbPU (2026).  
+Internship at Gazpromneft-GEO: data collection, EDA, reporting.  
+Thesis: neural controller for stabilizing FitzHugh–Nagumo dynamics via Neural ODE.
+
+---
+
+### Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [Neural ODE controller](link) | Python, torchdiffeq, PyTorch | End-to-end trained controller embedded in ODE RHS; MSE 1e-2 → 1e-8 in 200 epochs |
+| [Churn prediction](link) | CatBoost, Optuna, pandas | Hyperparameter search, class imbalance handling, ROC-AUC evaluation |
+| [Image classification](link) | PyTorch, ResNet18, albumentations | Fine-tuning vs baseline CNN; noise removal via top-loss analysis |
+| [Airline dashboard](link) | PostgreSQL, Yandex DataLens | Interactive BI dashboard: seasonality, route efficiency |
+
+---
+
+### Stack
+
+`Python` `PyTorch` `torchdiffeq` `scikit-learn` `CatBoost` `Optuna`  
+`pandas` `numpy` `SQL` `PostgreSQL` `DataLens` `Power BI`
+
+---
+
+📬 poliya.paranina@gmail.com · [Telegram](https://t.me/pparanina)
